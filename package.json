@@ -1,0 +1,8 @@
+{
+  "name": "globby-eaccess-bug",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "globby": "^13.1.3"
+  }
+}
